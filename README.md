@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am an aspiring Dungeon Master for Dungeons and Dragons.  
+- ⚡ Fun fact: I am a Dungeon Master for Dungeons and Dragons.  
 
 <!---
 FranciscoBou/FranciscoBou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
